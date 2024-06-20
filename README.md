@@ -1,5 +1,5 @@
 # Reality-warpers
-Project submition for syntax error 2022
+Project submission for syntax error 2022
 
 https://youtu.be/43RITwHiBbo
 # Block Ballot
